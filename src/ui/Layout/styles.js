@@ -7,6 +7,8 @@ const DeviceLayout = styled.div`
     background-blend-mode: overlay;
     position: relative;
     padding: 20px 24px 34px 24px;
+    box-shadow: rgb(0 0 0 / 75%) -3px 17px 25px -1px;
+    border-radius: 15px;
     `
 
 const RightCircleBottom = styled.img`
